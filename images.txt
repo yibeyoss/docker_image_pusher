@@ -10,3 +10,4 @@ haishanh/yacd
 centralx/clash
 jgraph/drawio
 stonith404/pingvin-share
+jgraph/drawio
