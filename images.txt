@@ -8,3 +8,4 @@ vaultwarden/server:latest
 dreamacro/clash
 haishanh/yacd
 centralx/clash
+jgraph/drawio
