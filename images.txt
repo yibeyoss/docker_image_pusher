@@ -13,3 +13,4 @@ stonith404/pingvin-share
 onlyoffice/documentserver
 ollama/ollama
 nextcloud
+ghcr.io/open-webui/open-webui:main
