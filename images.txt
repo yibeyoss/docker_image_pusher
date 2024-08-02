@@ -15,3 +15,4 @@ ollama/ollama
 nextcloud
 ghcr.io/open-webui/open-webui:main
 kahosan/home-page
+luode0320/web-start
