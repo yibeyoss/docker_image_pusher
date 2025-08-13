@@ -1,2 +1,1 @@
-hslr/li-calendar
-vaultwarden/server
+linuxserver/qbittorrent
