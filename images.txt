@@ -1,1 +1,2 @@
 linuxserver/qbittorrent
+chigusa/bililive-go
