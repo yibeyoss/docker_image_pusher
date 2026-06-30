@@ -1,2 +1,3 @@
 linuxserver/qbittorrent
 chigusa/bililive-go
+nocobase/nocobase
