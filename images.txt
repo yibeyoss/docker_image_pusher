@@ -1,4 +1,4 @@
 linuxserver/qbittorrent
-chigusa/bililive-go
 nocobase/nocobase
 vaultwarden/server
+chigusa/bililive-go
