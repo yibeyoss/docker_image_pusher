@@ -3,3 +3,5 @@ nocobase/nocobase
 vaultwarden/server
 chigusa/bililive-go
 affinefoundation/affine
+pgvector/pgvector:pg16
+redis:7-alpine
