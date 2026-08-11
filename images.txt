@@ -6,3 +6,4 @@ affinefoundation/affine
 pgvector/pgvector:pg16
 redis:7-alpine
 loryhillman/affine-postgres
+toeverything/affine:stable
