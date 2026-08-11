@@ -2,3 +2,4 @@ linuxserver/qbittorrent
 nocobase/nocobase
 vaultwarden/server
 chigusa/bililive-go
+affinefoundation/affine
