@@ -6,4 +6,6 @@ affinefoundation/affine
 pgvector/pgvector:pg16
 loryhillman/affine-postgres
 toeverything/affine:stable
-redis
+immich-app/immich-server:v1.139.4
+redis:6.2-alpine
+tensorchord/pgvecto-rs:pg14-v0.2.0
